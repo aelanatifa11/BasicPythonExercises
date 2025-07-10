@@ -1,7 +1,5 @@
-# BasicPython
-
 # Basic Python Exercises
 
-## ✅ Latihan 01: Simple Chatbot Introduction
-[View file](latihan-01-simple-chatbot/simple_chatbot.py)
+## ✅ Practice 01: Simple Chatbot Introduction
+[View file](Simple_ChatBot_Introduction.py)
 
