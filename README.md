@@ -5,5 +5,5 @@
 
 Description: A simple Chatbot that asks about name, age, and favorite color. 
 
-## ✅ Practice 02: "coming soon"
-
+## ✅ Practice 02: "Kalkulator Umur"
+[View File] 
